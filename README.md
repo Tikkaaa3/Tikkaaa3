@@ -2,6 +2,7 @@
 🇵🇱 Currently studying in Poland  
 ⚙️ Neovim enthusiast & configuration nerd  
 🛠️ I love building efficient, minimal setups
+🐧 I use Arch btw
 
 ---
 
